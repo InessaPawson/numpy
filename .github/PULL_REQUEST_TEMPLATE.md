@@ -1,5 +1,5 @@
 ### PR summary
-<!-- Please take some time to make it easier for us, the maintainers, to review
+<!-- Please take some time to make it easier for us to review
 your pull request (PR). Describe the PR using the questions below as guidance,
 and link to any relevant issues and PRs.<br>
 
