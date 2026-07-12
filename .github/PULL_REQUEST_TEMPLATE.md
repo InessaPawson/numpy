@@ -1,13 +1,16 @@
 ### PR summary
 <!-- Please take some time to make it easier for us to review
-your pull request (PR). Describe the PR using the questions below as guidance,
-and link to any relevant issues and PRs.<br>
+your pull request (PR). Describe the PR using the questions below as guidance.<br>
 
-What is the purpose of this PR? What current issue in NumPy does this PR solve?<br>
-What outcome or benefit do you expect from the proposed changes?<br>
+What problem does this PR solve? Link any relevant issues and PRs.<br>
+Who benefits from the proposed changes, and how?<br>
 
-Make sure to review [the guidelines](https://numpy.org/devdocs/dev/index.html#guidelines)
-and fill out the disclosure section below.
+Please keep in mind that even seemingly small changes can have unexpected consequences
+for workflows unrelated to the ones you may be familiar with. For this reason, maintainers
+carefully consider the risks of all changes, including bug fixes.</br>
+
+Make sure to review [the guidelines for contributing code to NumPy](https://numpy.org/devdocs/dev/index.html#guidelines)
+and fill out the AI disclosure section below.
 
 -->
 
